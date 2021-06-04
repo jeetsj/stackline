@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stackline/static/css/main.b6cea02b.chunk.css",
+    "main.js": "/stackline/static/js/main.e67f0c0b.chunk.js",
+    "main.js.map": "/stackline/static/js/main.e67f0c0b.chunk.js.map",
+    "runtime-main.js": "/stackline/static/js/runtime-main.bcc908a7.js",
+    "runtime-main.js.map": "/stackline/static/js/runtime-main.bcc908a7.js.map",
+    "static/js/2.b5f8d6d1.chunk.js": "/stackline/static/js/2.b5f8d6d1.chunk.js",
+    "static/js/2.b5f8d6d1.chunk.js.map": "/stackline/static/js/2.b5f8d6d1.chunk.js.map",
+    "static/js/3.5d9155d0.chunk.js": "/stackline/static/js/3.5d9155d0.chunk.js",
+    "static/js/3.5d9155d0.chunk.js.map": "/stackline/static/js/3.5d9155d0.chunk.js.map",
+    "index.html": "/stackline/index.html",
+    "static/css/main.b6cea02b.chunk.css.map": "/stackline/static/css/main.b6cea02b.chunk.css.map",
+    "static/js/2.b5f8d6d1.chunk.js.LICENSE.txt": "/stackline/static/js/2.b5f8d6d1.chunk.js.LICENSE.txt",
+    "static/media/stackline_logo.b92b0690.svg": "/stackline/static/media/stackline_logo.b92b0690.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcc908a7.js",
+    "static/js/2.b5f8d6d1.chunk.js",
+    "static/css/main.b6cea02b.chunk.css",
+    "static/js/main.e67f0c0b.chunk.js"
+  ]
+}
